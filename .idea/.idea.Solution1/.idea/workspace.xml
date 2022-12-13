@@ -4,7 +4,26 @@
     <projectFile profileName="Sample.Api">src/back-end/Sample.Api/Sample.Api.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b4ff85f-5796-4c46-ae34-62e91a746e05" name="Changes" comment="" />
+    <list default="true" id="0b4ff85f-5796-4c46-ae34-62e91a746e05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/bin/Debug/net6.0/Sample.Api" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/bin/Debug/net6.0/Sample.Api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/bin/Debug/net6.0/Sample.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/bin/Debug/net6.0/Sample.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/bin/Debug/net6.0/Sample.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/bin/Debug/net6.0/Sample.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/Sample.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/ref/Sample.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Debug/net6.0/ref/Sample.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Sample.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Sample.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Sample.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/Sample.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/src/back-end/Sample.Api/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front-end/org.ichiba.vn/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/front-end/org.ichiba.vn/src/App.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670596549942</updated>
-      <workItem from="1670596550939" duration="727000" />
+      <workItem from="1670596550939" duration="2037000" />
     </task>
     <servers />
   </component>
